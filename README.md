@@ -1,4 +1,3 @@
-# PyTorch-Based-implementation-of-Light-GCN-paper
 # PyTorch Implementation of Light GCN Paper
 
 This repository contains a PyTorch implementation of the Light Graph Convolutional Network (Light GCN) paper. Light GCN is a graph neural network designed for collaborative filtering tasks, particularly in recommendation systems.
@@ -39,8 +38,6 @@ All datasets used can be found on the Grouplens website
 
 ## Acknowledgments
 
-This implementation builds upon the contributions of the authors of the Light GCN paper. We extend our gratitude to them for their valuable research.
-
-Feel free to open issues for any questions, bug reports, or suggestions. Contributions are also welcome!
+This implementation builds upon the contributions of the authors of the Light GCN paper. I extend gratitude to them for their valuable research.
 
 Happy coding!
